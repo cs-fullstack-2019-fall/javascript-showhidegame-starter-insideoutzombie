@@ -1,0 +1,12 @@
+table {
+  
+}
+
+#table_stuff {
+  width: 80%;
+  height: 600px;
+  margin-top: 5%;
+  margin-left: 10%;
+  border-collapse: collapse;
+  background: url("forest-background.jpg");
+}
